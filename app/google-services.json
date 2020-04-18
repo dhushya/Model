@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "321941434092",
+    "firebase_url": "https://forms-ea1d8.firebaseio.com",
+    "project_id": "forms-ea1d8",
+    "storage_bucket": "forms-ea1d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321941434092:android:7d947476178b132156ffc9",
+        "android_client_info": {
+          "package_name": "com.example.modelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321941434092-21079r47o6mpehk68gvm1k2m6sn2pqms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc8CcSpiTIT8IoWUyJ_MvP7Cb5NXkJvAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321941434092-21079r47o6mpehk68gvm1k2m6sn2pqms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321941434092:android:482dadb100095c9956ffc9",
+        "android_client_info": {
+          "package_name": "com.example.whatsappmodel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321941434092-21079r47o6mpehk68gvm1k2m6sn2pqms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc8CcSpiTIT8IoWUyJ_MvP7Cb5NXkJvAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321941434092-21079r47o6mpehk68gvm1k2m6sn2pqms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
